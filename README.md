@@ -6,7 +6,7 @@ at Udacity
 by David Evans  
 
 
-## Python by Immersion
+## [Python by Immersion](python-by-immersion.md)
 at PyCon 2018  
 by Stuart Williams  
 
