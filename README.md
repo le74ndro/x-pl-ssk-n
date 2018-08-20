@@ -1,4 +1,4 @@
-# pl-ssk-n
+# [pl-ssk-n](README.md)
 
 
 ## [Intro to Computer Science - CS101](udacity-cs101.md)
