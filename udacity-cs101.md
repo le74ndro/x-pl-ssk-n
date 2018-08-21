@@ -7,3 +7,5 @@ by David Evans
 Learn by doing, Python, Search Engine, Social Network  
 30 Lessons  
 
+### Lesson 1: How to Get Started
+
