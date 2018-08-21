@@ -9,6 +9,8 @@ by Stuart Williams [/profile/310/]
 [/profile/310/]: https://us.pycon.org/2018/speaker/profile/310/
 on YouTube [/M5U9RwBJXiQ]  
 [/M5U9RwBJXiQ]: https://www.youtube.com/watch?v=M5U9RwBJXiQ
+exercises [/pycon2018-immersion]  
+[/pycon2018-immersion]: http://bit.ly/pycon2018-immersion
 
 
 ```
