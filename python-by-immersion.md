@@ -1,9 +1,10 @@
 # [pl-ssk-n](README.md)
 
 ## [Python by Immersion](python-by-immersion.md)
-at [Pycon] [/2018/]  
+at [Pycon] [/2018/] [/presentation/59/]  
 [Pycon]: https://us.pycon.org/
 [/2018/]: https://us.pycon.org/2018/
+[/presentation/59/]: https://us.pycon.org/2018/schedule/presentation/59/
 by Stuart Williams [/profile/310/]  
 [/profile/310/]: https://us.pycon.org/2018/speaker/profile/310/
 
