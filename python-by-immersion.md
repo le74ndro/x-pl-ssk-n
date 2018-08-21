@@ -1,7 +1,8 @@
 # [pl-ssk-n](README.md)
 
 ## [Python by Immersion](python-by-immersion.md)
-
+by Stuart Williams [/profile/310/]  
+[/profile/310/]: https://us.pycon.org/2018/speaker/profile/310/
 
 
 
