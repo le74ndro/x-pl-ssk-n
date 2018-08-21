@@ -4,3 +4,6 @@
 on Udacity  
 by David Evans  
 
+Learn by doing, Python, Search Engine, Social Network  
+30 Lessons  
+
