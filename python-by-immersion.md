@@ -2,14 +2,16 @@
 
 ## [Python by Immersion](python-by-immersion.md)
 at [Pycon] [/2018/] [/presentation/59/]  
+by Stuart Williams [/profile/310/]  
+on YouTube [/M5U9RwBJXiQ]  
+exercises [/pycon2018-immersion]  
+
+---
 [Pycon]: https://us.pycon.org/
 [/2018/]: https://us.pycon.org/2018/
 [/presentation/59/]: https://us.pycon.org/2018/schedule/presentation/59/
-by Stuart Williams [/profile/310/]  
 [/profile/310/]: https://us.pycon.org/2018/speaker/profile/310/
-on YouTube [/M5U9RwBJXiQ]  
 [/M5U9RwBJXiQ]: https://www.youtube.com/watch?v=M5U9RwBJXiQ
-exercises [/pycon2018-immersion]  
 [/pycon2018-immersion]: http://bit.ly/pycon2018-immersion
 
 
