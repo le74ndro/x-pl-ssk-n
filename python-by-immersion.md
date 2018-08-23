@@ -20,7 +20,7 @@ pg Line  Topic                                          Time
 -- ----  ---------------------------------------------- -----------
  1       Overview
  1       Python by Immersion                            ?t=0s
- 1    0  Objects                                        
+ 1    0  Objects                                        ?t=8m30
  2   35  Names                                          
  3   85  Exercises: Objetcs and Names                   
  3  102  Numbers, etc,
