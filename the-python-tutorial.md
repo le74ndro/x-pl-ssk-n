@@ -14,5 +14,6 @@ at Python Software Foundation
  8  Errors and Exceptions
  9  Classes
 10  Brief Tour of the Standard Library
+11  Brief Tour of the Standard Library - Part II
 
 ```
