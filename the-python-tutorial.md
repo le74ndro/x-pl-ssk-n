@@ -15,5 +15,6 @@ at Python Software Foundation
  9  Classes
 10  Brief Tour of the Standard Library
 11  Brief Tour of the Standard Library - Part II
+12  Virtual Environments and Packages
 
 ```
