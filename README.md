@@ -11,6 +11,6 @@ at PyCon 2018
 by Stuart Williams  
 
 
-## The Python Tutorial
+## [The Python Tutorial](the-python-tutorial.md)
 at Python Software Foundation  
 
