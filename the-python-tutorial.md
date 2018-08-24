@@ -11,5 +11,6 @@ at Python Software Foundation
  5  Data Structures
  6  Modules
  7  Input and Output
+ 8  Errors and Exceptions
 
 ```
