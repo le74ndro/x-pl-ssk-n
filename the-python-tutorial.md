@@ -13,5 +13,6 @@ at Python Software Foundation
  7  Input and Output
  8  Errors and Exceptions
  9  Classes
+10  Brief Tour of the Standard Library
 
 ```
