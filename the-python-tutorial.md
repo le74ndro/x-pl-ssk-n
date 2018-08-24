@@ -3,6 +3,9 @@
 ## [The Python Tutorial](the-python-tutorial.md)
 at Python Software Foundation  
 [Python 3 Documentation](https://docs.python.org/3/)
+/
+[Tutorial](https://docs.python.org/3/tutorial/)
+
 
 ```
  1  Whetting Your Appetite
