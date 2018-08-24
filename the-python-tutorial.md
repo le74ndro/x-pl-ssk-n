@@ -2,6 +2,7 @@
 
 ## [The Python Tutorial](the-python-tutorial.md)
 at Python Software Foundation  
+[Python 3 Documentation](https://docs.python.org/3/)
 
 ```
  1  Whetting Your Appetite
