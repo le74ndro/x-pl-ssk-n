@@ -19,3 +19,8 @@ at Python Software Foundation
 at PyCon 2018  
 by Stuart Williams  
 
+
+## Conda Cheat Sheet
+
+
+
