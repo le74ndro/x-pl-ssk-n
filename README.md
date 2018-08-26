@@ -20,7 +20,7 @@ at PyCon 2018
 by Stuart Williams  
 
 
-## Conda Cheat Sheet
+## [Conda Cheat Sheet](conda-cheat-sheet.md)
 at Anaconda
 
 
