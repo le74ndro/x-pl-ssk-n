@@ -15,7 +15,7 @@ by Stuart Williams
 at Python Software Foundation  
 
 
-## Python Epiphanies
+## [Python Epiphanies](python-epiphanies.md)
 at PyCon 2018  
 by Stuart Williams  
 
