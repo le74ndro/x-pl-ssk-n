@@ -13,3 +13,6 @@ at Anaconda
 2   Specifying version numbers
 2   More Resources
 ```
+
+https://conda.io/docs/user-guide/cheatsheet.html
+
