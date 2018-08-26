@@ -8,5 +8,6 @@ at Anaconda
 1   Conda Basics
 1   Using Environments
 1   Finding conda packages
+2   Installing and Updading packages
 
 ```
