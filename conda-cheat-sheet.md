@@ -9,5 +9,6 @@ at Anaconda
 1   Using Environments
 1   Finding conda packages
 2   Installing and Updading packages
+2   Managing multiple versions of Python
 
 ```
