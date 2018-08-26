@@ -14,3 +14,6 @@ by Stuart Williams
 ## [The Python Tutorial](the-python-tutorial.md)
 at Python Software Foundation  
 
+
+## Python Epiphanies
+
