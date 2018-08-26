@@ -1,3 +1,7 @@
 # [pl-ssk-n](README.md)
 
 
+## [conda-cheatsheet.pdf](https://conda.io/docs/_downloads/conda-cheatsheet.pdf)
+at Anaconda
+
+
