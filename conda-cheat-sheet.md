@@ -6,5 +6,6 @@ at Anaconda
 
 ```
 1   Conda Basics
+1   Using Environments
 
 ```
