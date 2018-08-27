@@ -12,6 +12,9 @@ by Naomi Ceder and Mike Driscoll
 2   Data Objects
 3   Functions
 3   Classes
+4   Style Tips
+4   Using the Shell
+4   Batteries Included: Using Libraries
 
 ```
 
