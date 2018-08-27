@@ -10,6 +10,8 @@ by Naomi Ceder and Mike Driscoll
 1   Language Features
 2   Branching, Looping, and Exceptions
 2   Data Objects
+3   Functions
+3   Classes
 
 ```
 
