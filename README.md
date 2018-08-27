@@ -25,5 +25,6 @@ at Anaconda
 
 
 ## Refcardz Core Python
+at DZone  
 
 
