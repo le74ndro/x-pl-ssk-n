@@ -24,7 +24,6 @@ by Stuart Williams
 at Anaconda
 
 
-## Refcardz Core Python
+## [Refcardz Core Python](refcardz-core-python.md)
 at DZone  
-
 
