@@ -15,6 +15,7 @@ by Naomi Ceder and Mike Driscoll
 4   Style Tips
 4   Using the Shell
 4   Batteries Included: Using Libraries
-
+5   Popular Python Libraries
+5   Resources
 ```
 
