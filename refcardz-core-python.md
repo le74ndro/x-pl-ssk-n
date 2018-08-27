@@ -2,5 +2,7 @@
 
 
 ## Refcardz Core Python
-at DZone
+at DZone  
+by Naomi Ceder and Mike Driscoll
+
 
