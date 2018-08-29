@@ -11,6 +11,8 @@ Learn by doing, Python, Search Engine, Social Network
 https://www.udacity.com/wiki/cs101
 ### Resource
 https://www.udacity.com/wiki/cs101/resources
+### Python Reference Guide
+https://www.udacity.com/wiki/cs101/%3A-python-reference
 
 
 ### Lesson 1: How to Get Started
