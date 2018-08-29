@@ -33,5 +33,7 @@ Introduction to Computing
 Explorations in Language, Logic, and Machines  
 
 ### http://xplorecs.org/
+cs1120: Introduction to Computing  
+Explorations in Language, Logic, and Machines  
 
 
