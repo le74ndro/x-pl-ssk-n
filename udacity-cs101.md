@@ -26,6 +26,7 @@ https://www.udacity.com/wiki/cs101/unit-1
 
 
 ## David Evans
-Professor of [Computer Science](http://www.cs.virginia.edu/), University of Virginia
+Professor of [Computer Science](http://www.cs.virginia.edu/), [University of Virginia](http://www.virginia.edu/)  
+
 
 
