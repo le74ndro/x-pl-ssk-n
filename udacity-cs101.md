@@ -32,4 +32,6 @@ Professor of [Computer Science](http://www.cs.virginia.edu/), [University of Vir
 Introduction to Computing  
 Explorations in Language, Logic, and Machines  
 
+### http://xplorecs.org/
+
 
