@@ -7,6 +7,9 @@ by David Evans
 Learn by doing, Python, Search Engine, Social Network  
 30 Lessons  
 
+### Sylabus
+https://www.udacity.com/wiki/cs101
+
 ### Lesson 1: How to Get Started
 https://www.udacity.com/wiki/cs101/unit-1
 
