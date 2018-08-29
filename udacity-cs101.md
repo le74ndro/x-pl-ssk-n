@@ -13,6 +13,8 @@ https://www.udacity.com/wiki/cs101
 https://www.udacity.com/wiki/cs101/resources
 ### Python Reference Guide
 https://www.udacity.com/wiki/cs101/%3A-python-reference
+### Blog
+https://blog.udacity.com/2013/02/cs101-one-year-later.html
 
 
 ### Github
