@@ -16,6 +16,7 @@ https://www.udacity.com/wiki/cs101/%3A-python-reference
 
 
 ### Github
+https://github.com/udacity/cs101
 http://udacity.github.io/cs101/
 
 ### Lesson 1: How to Get Started
