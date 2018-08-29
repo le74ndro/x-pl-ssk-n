@@ -25,3 +25,7 @@ http://udacity.github.io/cs101/
 https://www.udacity.com/wiki/cs101/unit-1
 
 
+## David Evans
+Professor of Computer Science, University of Virginia
+
+
