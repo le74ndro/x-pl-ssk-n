@@ -9,8 +9,10 @@ Learn by doing, Python, Search Engine, Social Network
 
 ### Sylabus
 https://www.udacity.com/wiki/cs101
-### Resource
-https://www.udacity.com/wiki/cs101/resources
+### Resources
+https://www.udacity.com/wiki/cs101/resources  
+http://www.cs.virginia.edu/~evans/courses/cs101/  
+
 ### Python Reference Guide
 https://www.udacity.com/wiki/cs101/%3A-python-reference
 ### Blog
