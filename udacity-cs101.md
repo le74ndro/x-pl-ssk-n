@@ -107,4 +107,7 @@ http://www.cs.virginia.edu/~evans/hackerschool/
 ### [Dori-Mic and the Universal Machine!](http://www.dori-mic.org/)
 http://www.dori-mic.org/full-book.pdf
 
+A Tragicomic Tale of Combinatorics and Computability  
+for Curious Children of All Ages  
+
 
