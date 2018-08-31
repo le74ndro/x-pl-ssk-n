@@ -27,8 +27,8 @@ http://udacity.github.io/cs101/
 
 ### Lesson 1: How to Get Started
 https://www.udacity.com/wiki/cs101/unit-1  
-http://computingbook.org/Computing.pdf  
 http://www.cs.virginia.edu/~evans/courses/cs101/unit1-notes.pdf  
+http://computingbook.org/Computing.pdf  
 http://xplorecs.org/class1  
 http://computingbook.org/Language.pdf  
 http://xplorecs.org/class2  
