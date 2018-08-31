@@ -29,6 +29,9 @@ http://computingbook.org/Computing.pdf
 ## [David Evans](http://www.cs.virginia.edu/~evans/)
 Professor of [Computer Science](http://www.cs.virginia.edu/), [University of Virginia](http://www.virginia.edu/)  
 
+### [Courses](http://www.cs.virginia.edu/~evans/courses/)
+
+
 ### http://computingbook.org/
 Introduction to Computing  
 Explorations in Language, Logic, and Machines  
