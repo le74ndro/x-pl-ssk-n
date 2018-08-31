@@ -15,6 +15,8 @@ http://www.cs.virginia.edu/~evans/courses/cs101/
 
 ### Python Reference Guide
 https://www.udacity.com/wiki/cs101/%3A-python-reference
+http://www.cs.virginia.edu/~evans/courses/cs101/python-reference-final.pdf
+
 ### Blog
 https://blog.udacity.com/2013/02/cs101-one-year-later.html
 
