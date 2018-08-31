@@ -29,6 +29,7 @@ http://udacity.github.io/cs101/
 https://www.udacity.com/wiki/cs101/unit-1  
 http://computingbook.org/Computing.pdf  
 http://www.cs.virginia.edu/~evans/courses/cs101/unit1-notes.pdf  
+http://xplorecs.org/class1
 
 ## [David Evans](http://www.cs.virginia.edu/~evans/)
 Professor of [Computer Science](http://www.cs.virginia.edu/), [University of Virginia](http://www.virginia.edu/)  
