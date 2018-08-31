@@ -23,6 +23,7 @@ http://udacity.github.io/cs101/
 
 ### Lesson 1: How to Get Started
 https://www.udacity.com/wiki/cs101/unit-1
+http://computingbook.org/Computing.pdf
 
 
 ## [David Evans](http://www.cs.virginia.edu/~evans/)
