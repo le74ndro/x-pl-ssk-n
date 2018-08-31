@@ -38,3 +38,22 @@ cs1120: Introduction to Computing
 Explorations in Language, Logic, and Machines  
 
 
+### Course Book (including solutions to exercises)
+```
+ 1. Computing (Solutions)  
+ 2. Language (Solutions)  
+ 3. Programming (Solutions)  
+ 4. Problems and Procedures (Solutions)  
+ 5. Data (Solutions)  
+ 6. Machines  
+ 7. Cost  
+ 8. Sorting and Searching  
+ 9. Mutation  
+10. Objects  
+11. Interpreters  
+12. Computability  
+```
+
+
+
+
