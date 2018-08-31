@@ -101,4 +101,8 @@ Class 37: Art and Computing (Jack Doerner)
 Class 38: Big Questions about Hard Problems
 ```
 
+### What Every Hacker Should Know about Theory of Computation
+http://www.cs.virginia.edu/~evans/hackerschool/
+
+
 
