@@ -104,5 +104,6 @@ Class 38: Big Questions about Hard Problems
 ### What Every Hacker Should Know about Theory of Computation
 http://www.cs.virginia.edu/~evans/hackerschool/
 
-
+### Dori-Mic and the Universal Machine!
+http://www.dori-mic.org/
 
