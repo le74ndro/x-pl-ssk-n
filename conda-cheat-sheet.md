@@ -14,7 +14,7 @@ at Anaconda
 2   More Resources
 ```
 
-
+https://conda.io/docs/user-guide/getting-started.html
 https://conda.io/docs/user-guide/install/index.html
 https://conda.io/docs/user-guide/configuration/index.html
 https://conda.io/docs/user-guide/tutorials/index.html
