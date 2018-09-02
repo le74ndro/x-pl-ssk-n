@@ -15,6 +15,7 @@ at Anaconda
 ```
 
 
+https://conda.io/docs/user-guide/configuration/index.html
 https://conda.io/docs/user-guide/tutorials/index.html
 https://conda.io/docs/user-guide/cheatsheet.html  
 https://conda.io/docs/user-guide/tasks/index.html
