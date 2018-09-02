@@ -14,7 +14,8 @@ at Anaconda
 2   More Resources
 ```
 
+
+https://conda.io/docs/user-guide/tutorials/index.html
 https://conda.io/docs/user-guide/cheatsheet.html  
-
-
+https://conda.io/docs/user-guide/tasks/index.html
 
