@@ -14,11 +14,14 @@ at Anaconda
 2   More Resources
 ```
 
+https://conda.io/docs/user-guide/overview.html
 https://conda.io/docs/user-guide/concepts.html
 https://conda.io/docs/user-guide/getting-started.html
 https://conda.io/docs/user-guide/install/index.html
 https://conda.io/docs/user-guide/configuration/index.html
 https://conda.io/docs/user-guide/tutorials/index.html
-https://conda.io/docs/user-guide/cheatsheet.html  
 https://conda.io/docs/user-guide/tasks/index.html
+https://conda.io/docs/user-guide/cheatsheet.html  
+https://conda.io/docs/user-guide/troubleshooting.html
+
 
