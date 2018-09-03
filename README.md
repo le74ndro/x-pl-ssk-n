@@ -27,3 +27,7 @@ at Anaconda
 ## [Refcardz Core Python](refcardz-core-python.md)
 at DZone  
 
+
+## Learn Python in One Video
+
+
