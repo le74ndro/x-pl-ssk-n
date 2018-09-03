@@ -29,5 +29,5 @@ at DZone
 
 
 ## Learn Python in One Video
-
+by Derek Banas
 
