@@ -28,6 +28,6 @@ at Anaconda
 at DZone  
 
 
-## Learn Python in One Video
+## [Learn Python in One Video](http://youtu.be/N4mEzFDjqtA)
 by Derek Banas
 
