@@ -28,6 +28,9 @@ at Anaconda
 at DZone  
 
 
-## [Learn Python in One Video](http://youtu.be/N4mEzFDjqtA)
+## [Learn Python in One Video](http://www.newthinktank.com/2014/11/python-programming/)
 by Derek Banas
+
+http://youtu.be/N4mEzFDjqtA
+
 
