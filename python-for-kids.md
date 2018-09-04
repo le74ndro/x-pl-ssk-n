@@ -26,6 +26,10 @@ II  Bounce!
 14
 
 III Mr. Stick Man Races for the Exit
+15
+16
+17
+18
 
 
     Afterword: Where to Go from Here                            285
